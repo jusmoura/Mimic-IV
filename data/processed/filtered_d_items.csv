@@ -1,0 +1,152 @@
+itemid,label,abbreviation,linksto,category,unitname,param_type,lownormalvalue,highnormalvalue,treatment_category
+229789,Phenylephrine (Intubation),Phenylephrine (Intubation),chartevents,Intubation,mcg,Numeric,,,Vasopressors
+229617,Epinephrine.,Epinephrine.,inputevents,Medications,mg,Solution,,,Vasopressors
+221662,Dopamine,Dopamine,inputevents,Medications,mg,Solution,,,Vasopressors
+222315,Vasopressin,Vasopressin,inputevents,Medications,units,Solution,,,Vasopressors
+229630,Phenylephrine (50/250),Phenylephrine (50/250),inputevents,Medications,mg,Solution,,,Vasopressors
+221906,Norepinephrine,Norepinephrine,inputevents,Medications,mg,Solution,,,Vasopressors
+221289,Epinephrine,Epinephrine,inputevents,Medications,mg,Solution,,,Vasopressors
+229631,Phenylephrine (200/250)_OLD_1,Phenylephrine (200/250)_OLD_1,inputevents,Medications,mg,Solution,,,Vasopressors
+221749,Phenylephrine,Phenylephrine,inputevents,Medications,mg,Solution,,,Vasopressors
+229632,Phenylephrine (200/250),Phenylephrine (200/250),inputevents,Medications,mg,Solution,,,Vasopressors
+229875,Oxygenator visible (CH),Oxygenator visible (CH),chartevents,ECMO,,Text,,,Mechanical Ventilation
+229274,Oxygenator visible (ECMO),Oxygenator visible (ECMO),chartevents,ECMO,,Text,,,Mechanical Ventilation
+223985,Respiratory Pattern,Respiratory Pattern,chartevents,Pulmonary,,Text,,,Mechanical Ventilation
+223990,Respiratory Effort,Respiratory Effort,chartevents,Pulmonary,,Text,,,Mechanical Ventilation
+229091,Altered Respiratory Status NCP - Problem resolved,ARS NCP - Problem resolved,chartevents,Care Plans,,Text,,,Mechanical Ventilation
+228903,Altered Respiratory Status NCP - Goal,ARS NCP - Goal,chartevents,Care Plans,,Text,,,Mechanical Ventilation
+228905,Altered Respiratory Status NCP - Interventions,ARS NCP - Interventions,chartevents,Care Plans,,Text,,,Mechanical Ventilation
+228907,Altered Respiratory Status NCP - outcomes met,ARS NCP - outcomes met,chartevents,Care Plans,,Text,,,Mechanical Ventilation
+228902,Altered Respiratory Status NCP - Expected outcomes,ARS NCP - Expected outcomes,chartevents,Care Plans,,Text,,,Mechanical Ventilation
+229090,Altered Respiratory Status NCP - Plan revised,ARS NCP - Plan revised,chartevents,Care Plans,,Text,,,Mechanical Ventilation
+229786,Preoxygenation (Intubation),Preoxygenation (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+229787,Rigid Stylette (Intubation),Rigid Stylette (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+222871,Mallampati classification (Intubation),Mallampati classification (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+226191,Barrier precautions in place (Intubation),Barrier precautions in place (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+225291,Indication (Intubation),Indication (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+225585,ETT Depth (Intubation),ETT Depth (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+225593,Best Larynx View Obtained (Intubation),Best Larynx View Obtained (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+228065,Hand Cleansing prior to procedure (Intubation),Hand Cleansing prior to procedure (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+225306,Number of Attempts (Intubation),Number of Attempts (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+226430,Complications (Intubation),Complications (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+226431,Verification of (Intubation),Verification of (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+228066,Unable to complete Airway Assessment (Intubation),Unable to complete  Assessment (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+225296,Mandibular Prognatism (Intubation),Mandibular Prognatism (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+229784,Code Status (Intubation),Code Status (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+225297,Teeth/Dentition (Intubation),Teeth/Dentition (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+228069,Tube Secured (Intubation),Tube Secured (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+225271,Induction/Drugs/Doses (Intubation),Induction/Drugs/Doses (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+225294,Mouth Opening (Intubation),Mouth Opening (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+226188,Timeout Performed by (Intubation),Timeout Performed by (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+225298,Neck ROM (Intubation),Neck ROM (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+225303,Mask Ventilation (Intubation),Mask Ventilation (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+226432,Drugs (Intubation),Drugs (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+225592,ETT Size (Intubation),ETT Size (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+228643,Barrier precautions in place (Intubation),Barrier precautions in place (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+225295,Thyromental Distance (Intubation),Thyromental Distance (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+228067,Stylette (Intubation),Stylette (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+228068,Bougie (Intubation),Bougie (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+225590,Tracheal Confirmation (Intubation),Tracheal Confirmation (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+225304,Blade / Equipment (Intubation),Blade / Equipment (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+226189,Patient identified correctly by 2 means (Intubation),Patient identified correctly by 2 means (Intubatio,chartevents,Intubation,,Text,,,Mechanical Ventilation
+226429,ETT Type (Intubation),ETT Type (Intubation),chartevents,Intubation,,Text,,,Mechanical Ventilation
+226814,Known difficult intubation,Known difficult intubation,chartevents,Respiratory,,Text,,,Mechanical Ventilation
+223059,Intubation - Details,Intubation - Details,chartevents,Respiratory,,Text,,,Mechanical Ventilation
+228709,Respiratory,Respiratory,chartevents,MD Progress Note,,Text,,,Mechanical Ventilation
+229563,Plan-Respiratory,Plan-Respiratory,chartevents,MD Progress Note,,Text,,,Mechanical Ventilation
+229425,ROS-Respiratory,ROS-Respiratory,chartevents,MD Progress Note,,Text,,,Mechanical Ventilation
+227047,Post-Operative Respiratory (RESPIRAT),Respiratory Post-Operative,chartevents,Scores - APACHE IV,,Text,,,Mechanical Ventilation
+227032,Non-Operative Respiratory (RESPIRAT),Respiratory Non-Operative,chartevents,Scores - APACHE IV,,Text,,,Mechanical Ventilation
+228232,PAR-Oxygen saturation,PAR-Oxygen saturation,chartevents,Routine Vital Signs,,Text,,,Mechanical Ventilation
+227215,Succynlocholine (Intubation),Succynlocholine (Intubation),chartevents,Intubation,mg,Numeric,,,Mechanical Ventilation
+227214,Cis-atracurium (Intubation),Cis-atracurium (Intubation),chartevents,Intubation,mg,Numeric,,,Mechanical Ventilation
+227211,Ketamine (Intubation),Ketamine (Intubation),chartevents,Intubation,mg,Numeric,,,Mechanical Ventilation
+227212,Etomidate (Intubation),Etomidate (Intubation),chartevents,Intubation,mg,Numeric,,,Mechanical Ventilation
+229789,Phenylephrine (Intubation),Phenylephrine (Intubation),chartevents,Intubation,mcg,Numeric,,,Mechanical Ventilation
+227210,Propofol (Intubation),Propofol (Intubation),chartevents,Intubation,mg,Numeric,,,Mechanical Ventilation
+227213,Vecuronium (Intubation),Vecuronium (Intubation),chartevents,Intubation,mg,Numeric,,,Mechanical Ventilation
+229788,Rocuronium (Intubation),Rocuronium (Intubation),chartevents,Intubation,mg,Numeric,,,Mechanical Ventilation
+224688,Respiratory Rate (Set),Respiratory Rate (Set),chartevents,Respiratory,insp/min,Numeric,,,Mechanical Ventilation
+224745,Respiratory Quotient,RQ,chartevents,Respiratory,,Numeric,,,Mechanical Ventilation
+224690,Respiratory Rate (Total),Respiratory Rate (Total),chartevents,Respiratory,insp/min,Numeric,,36.0,Mechanical Ventilation
+220210,Respiratory Rate,RR,chartevents,Respiratory,insp/min,Numeric,,,Mechanical Ventilation
+224689,Respiratory Rate (spontaneous),Respiratory Rate (spontaneous),chartevents,Respiratory,insp/min,Numeric,,,Mechanical Ventilation
+229235,Brain Tissue Oxygenation,PbtO2,chartevents,Hemodynamics,mmHg,Numeric,,,Mechanical Ventilation
+228192,Oxygenator Sweep Rate,Oxygenator Sweep Rate,chartevents,Tandem Heart,L/min,Numeric,,,Mechanical Ventilation
+226767,OxygenApacheIIScore,OxygenApacheIIScore,chartevents,Scores - APACHE II,,Numeric,,,Mechanical Ventilation
+227035,OxygenScore_ApacheIV,OxygenScore_ApacheIV,chartevents,Scores - APACHE IV (2),,Numeric,,,Mechanical Ventilation
+226260,Mechanically Ventilated,Mechanically Ventilated,chartevents,General,,Checkbox,,,Mechanical Ventilation
+225301,RSI (Intubation),RSI (Intubation),chartevents,Intubation,,Checkbox,,,Mechanical Ventilation
+226190,Hand Cleansing prior to procedure (Intubation),Hand Cleansing prior to (Intubation),chartevents,Intubation,,Checkbox,,,Mechanical Ventilation
+225587,Bougie (Intubation),Bougie (Intubation),chartevents,Intubation,,Checkbox,,,Mechanical Ventilation
+225292,Unable to complete Airway Assessment (Intubation),Unable to complete Airway (Intubation),chartevents,Intubation,,Checkbox,,,Mechanical Ventilation
+225300,No Drugs Administered (Intubation),No Drugs Administered (Intubation),chartevents,Intubation,,Checkbox,,,Mechanical Ventilation
+228070,The Attending/Supervisor is the Clinical Operator (Intubation),The Attending/Supervisor (Intubation),chartevents,Intubation,,Checkbox,,,Mechanical Ventilation
+225588,Tube Secured (Intubation),Tube Secured (Intubation),chartevents,Intubation,,Checkbox,,,Mechanical Ventilation
+225302,Pre-Oxygentated (Intubation),Pre-Oxygentated (Intubation),chartevents,Intubation,,Checkbox,,,Mechanical Ventilation
+225586,Stylette (Intubation),Stylette (Intubation),chartevents,Intubation,,Checkbox,,,Mechanical Ventilation
+226166,No Complications (Intubation),No Complications (Intubation),chartevents,Intubation,,Checkbox,,,Mechanical Ventilation
+228071,I was present during the above procedure and agree with the checklist (Intubation),I was present during the procedure (Intubation),chartevents,Intubation,,Checkbox,,,Mechanical Ventilation
+228193,Oxygenator/ECMO,Oxygenator/ECMO,chartevents,Tandem Heart,,Checkbox,,,Mechanical Ventilation
+225794,Non-invasive Ventilation,Non-invasive Ventilation,procedureevents,2-Ventilation,,Processes,,,Mechanical Ventilation
+225792,Invasive Ventilation,Invasive Ventilation,procedureevents,2-Ventilation,,Processes,,,Mechanical Ventilation
+225475,Respiratory Arrest,Respiratory Arrest,procedureevents,3-Significant Events,,Processes,,,Mechanical Ventilation
+224385,Intubation,Intubation,procedureevents,1-Intubation/Extubation,,Processes,,,Mechanical Ventilation
+227290,CRRT mode,CRRT mode,chartevents,Dialysis,,Text,,,Renal Replacement Therapy
+224139,Dialysis Site Appearance,Dialysis Site Appearance,chartevents,Dialysis,,Text,,,Renal Replacement Therapy
+225956,Reason for CRRT Filter Change,Reason for Filter Change,chartevents,Dialysis,,Text,,,Renal Replacement Therapy
+227638,Medication Added #2 (Peritoneal Dialysis),Medication Added #2 (PD),chartevents,Dialysis,,Text,,,Renal Replacement Therapy
+225953,Solution (Peritoneal Dialysis),Solution (PD),chartevents,Dialysis,,Text,,,Renal Replacement Therapy
+225954,Dialysis Access Type,Dialysis Access Type,chartevents,Dialysis,,Text,,,Renal Replacement Therapy
+225952,Medication Added #1 (Peritoneal Dialysis),Medication Added #1 (PD),chartevents,Dialysis,,Text,,,Renal Replacement Therapy
+225961,Medication Added Units #1 (Peritoneal Dialysis),Medication Added Units #1 (PD),chartevents,Dialysis,,Text,,,Renal Replacement Therapy
+225965,Peritoneal Dialysis Catheter Status,PD Catheter Status,chartevents,Dialysis,,Text,,,Renal Replacement Therapy
+227640,Medication Added Units #2 (Peritoneal Dialysis),Medication Added Units #2 (PD),chartevents,Dialysis,,Text,,,Renal Replacement Therapy
+225951,Peritoneal Dialysis Fluid Appearance,PD Fluid Appearance,chartevents,Dialysis,,Text,,,Renal Replacement Therapy
+225963,Peritoneal Dialysis Catheter Type,PD Catheter Type,chartevents,Dialysis,,Text,,,Renal Replacement Therapy
+224135,Dialysis Access Site,Dialysis Access Site,chartevents,Dialysis,,Text,,,Renal Replacement Therapy
+228708,Renal,Renal,chartevents,MD Progress Note,,Text,,,Renal Replacement Therapy
+229567,Plan-Renal/GU,Plan-Renal/GU,chartevents,MD Progress Note,,Text,,,Renal Replacement Therapy
+228698,Abdominal - (GI / Hepatic / Renal),Abdominal - (GI / Hepatic / Renal),chartevents,MD Progress Note,,Text,,,Renal Replacement Therapy
+227124,Dialysis Catheter Type,Dialysis Catheter Type,chartevents,Access Lines - Invasive,,Text,,,Renal Replacement Therapy
+227753,Dialysis Catheter Placement Confirmed by X-ray,Dialysis Catheter Placement Confirmed by X-ray,chartevents,Access Lines - Invasive,,Text,,,Renal Replacement Therapy
+225740,Dialysis Catheter Discontinued,Dialysis Catheter Discontinued,chartevents,Access Lines - Invasive,,Text,,,Renal Replacement Therapy
+229536,Dialysis Catheter Type,Dialysis Catheter Type,chartevents,Access Lines - Invasive,,Text,,,Renal Replacement Therapy
+225776,Dialysis Catheter Dressing Type,Dialysis Catheter Dressing Type,chartevents,Access Lines - Invasive,,Text,,,Renal Replacement Therapy
+225323,Dialysis Catheter Site Appear,Dialysis Catheter Site Appear,chartevents,Access Lines - Invasive,,Text,,,Renal Replacement Therapy
+225959,Medication Added Amount  #1 (Peritoneal Dialysis),Medication Added Amount #1 (PD),chartevents,Dialysis,,Numeric,,,Renal Replacement Therapy
+227639,Medication Added Amount  #2 (Peritoneal Dialysis),Medication Added Amount  #2 (PD),chartevents,Dialysis,,Numeric,,,Renal Replacement Therapy
+226499,Hemodialysis Output,Hemodialysis Output,chartevents,Dialysis,mL,Numeric,,,Renal Replacement Therapy
+225810,Dwell Time (Peritoneal Dialysis),Dwell Time (Hours),chartevents,Dialysis,hour,Numeric,,,Renal Replacement Therapy
+225126,Dialysis patient,Dialysis patient,chartevents,Adm History/FHPA,,Checkbox,,,Renal Replacement Therapy
+226748,APACHEII-Renal failure,APACHEII-Renal failure,chartevents,Scores - APACHE II,,Checkbox,,,Renal Replacement Therapy
+229881,Dialysis/Pheresis Biopatch,Dialysis/Pheresis Biopatch,chartevents,Access Lines - Invasive,,Checkbox,,,Renal Replacement Therapy
+225725,Dialysis Catheter Tip Cultured,Dialysis Catheter Tip Cultured,chartevents,Access Lines - Invasive,,Checkbox,,,Renal Replacement Therapy
+226118,Dialysis Catheter placed in outside facility,Dialysis Cath placed in outside facility,chartevents,Access Lines - Invasive,,Checkbox,,,Renal Replacement Therapy
+227357,Dialysis Catheter Dressing Occlusive,Dialysis Catheter Dressing Occlusive,chartevents,Access Lines - Invasive,,Checkbox,,,Renal Replacement Therapy
+230044,Heparin Sodium (CRRT-Prefilter),Heparin Sodium (CRRT-Prefilter),inputevents,Medications,units,Solution,,,Renal Replacement Therapy
+227536,KCl (CRRT),KCl (CRRT),inputevents,Medications,mEq.,Solution,,,Renal Replacement Therapy
+227525,Calcium Gluconate (CRRT),Calcium Gluconate (CRRT),inputevents,Medications,grams,Solution,,,Renal Replacement Therapy
+226030,Nutren Renal (3/4),Nutren Renal (3/4),inputevents,Nutrition - Enteral,mL,Solution,,,Renal Replacement Therapy
+227972,NovaSource Renal (1/4),NovaSource Renal (1/4),inputevents,Nutrition - Enteral,mL,Solution,,,Renal Replacement Therapy
+227973,NovaSource Renal (1/2),NovaSource Renal (1/2),inputevents,Nutrition - Enteral,mL,Solution,,,Renal Replacement Therapy
+226031,Nutren Renal (1/2),Nutren Renal (1/2),inputevents,Nutrition - Enteral,mL,Solution,,,Renal Replacement Therapy
+221036,Nutren Renal (Full),Nutren Renal (Full),inputevents,Nutrition - Enteral,mL,Solution,,,Renal Replacement Therapy
+227975,NovaSource Renal (Full),NovaSource Renal (Full),inputevents,Nutrition - Enteral,mL,Solution,,,Renal Replacement Therapy
+226028,Nutren Renal (1/4),Nutren Renal (1/4),inputevents,Nutrition - Enteral,mL,Solution,,,Renal Replacement Therapy
+227974,NovaSource Renal (3/4),NovaSource Renal (3/4),inputevents,Nutrition - Enteral,mL,Solution,,,Renal Replacement Therapy
+226029,Nutren Renal (2/3),Nutren Renal (2/3),inputevents,Nutrition - Enteral,mL,Solution,,,Renal Replacement Therapy
+225955,Dialysis - SCUF,Dialysis - SCUF,procedureevents,Dialysis,,Processes,,,Renal Replacement Therapy
+225805,Peritoneal Dialysis,Peritoneal Dialysis,procedureevents,Dialysis,,Processes,,,Renal Replacement Therapy
+225803,Dialysis - CVVHD,Dialysis - CVVHD,procedureevents,Dialysis,,Processes,,,Renal Replacement Therapy
+225802,Dialysis - CRRT,Dialysis - CRRT,procedureevents,Dialysis,,Processes,,,Renal Replacement Therapy
+225436,CRRT Filter Change,CRRT Filter Change,procedureevents,Dialysis,,Processes,,,Renal Replacement Therapy
+225809,Dialysis - CVVHDF,Dialysis - CVVHDF,procedureevents,Dialysis,,Processes,,,Renal Replacement Therapy
+225441,Hemodialysis,Hemodialysis,procedureevents,4-Procedures,,Processes,,,Renal Replacement Therapy
+224270,Dialysis Catheter,Dialysis Catheter,procedureevents,Access Lines - Invasive,,Processes,,,Renal Replacement Therapy
+225128,Last dialysis,Last dialysis,datetimeevents,Adm History/FHPA,,Date and time,,,Renal Replacement Therapy
+225321,Dialysis Catheter Dressing Change,Dialysis Catheter Dressing Change,datetimeevents,Access Lines - Invasive,,Date and time,,,Renal Replacement Therapy
+225319,Dialysis Catheter Change over Wire Date,Dialysis Catheter Change over Wire Date,datetimeevents,Access Lines - Invasive,,Date and time,,,Renal Replacement Therapy
+225324,Dialysis CatheterTubing Change,Dialysis Catheter Tubing Change,datetimeevents,Access Lines - Invasive,,Date and time,,,Renal Replacement Therapy
+225322,Dialysis Catheter Insertion Date,Dialysis Catheter Insertion Date,datetimeevents,Access Lines - Invasive,,Date and time,,,Renal Replacement Therapy
+225318,Dialysis Catheter Cap Change,Dialysis Catheter Cap Change,datetimeevents,Access Lines - Invasive,,Date and time,,,Renal Replacement Therapy
